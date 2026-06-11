@@ -1,0 +1,9 @@
+/src/.vs
+/src/SmartEstoqueAPI.Api/bin/Debug
+/src/SmartEstoqueAPI.Api/SmartEstoqueAPI.Api.csproj.user
+/src/SmartEstoqueAPI.Api/obj
+/src/SmartEstoqueAPI.Api/appsettings.Development.json
+/src/SmartEstoqueAPI.Domain/obj
+/src/SmartEstoqueAPI.Domain/bin/Debug
+/src/SmartEstoqueAPI.Infrastructure/bin/Debug
+/src/SmartEstoqueAPI.Infrastructure/obj

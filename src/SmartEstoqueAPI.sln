@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36717.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartEstoqueAPI.Infrastructure", "SmartEstoqueAPI.Infrastructure\SmartEstoqueAPI.Infrastructure.csproj", "{7B3E4D27-1A5D-47E3-9C7B-219C80E4CFD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartEstoqueAPI.Domain", "SmartEstoqueAPI.Domain\SmartEstoqueAPI.Domain.csproj", "{136B99B4-F6E8-4E51-AA4F-F766B0071EBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartEstoqueAPI.Api", "SmartEstoqueAPI.Api\SmartEstoqueAPI.Api.csproj", "{E560F40A-8370-4B4D-B2D1-003D856DCA53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B3E4D27-1A5D-47E3-9C7B-219C80E4CFD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B3E4D27-1A5D-47E3-9C7B-219C80E4CFD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B3E4D27-1A5D-47E3-9C7B-219C80E4CFD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B3E4D27-1A5D-47E3-9C7B-219C80E4CFD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{136B99B4-F6E8-4E51-AA4F-F766B0071EBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{136B99B4-F6E8-4E51-AA4F-F766B0071EBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{136B99B4-F6E8-4E51-AA4F-F766B0071EBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{136B99B4-F6E8-4E51-AA4F-F766B0071EBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E560F40A-8370-4B4D-B2D1-003D856DCA53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E560F40A-8370-4B4D-B2D1-003D856DCA53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E560F40A-8370-4B4D-B2D1-003D856DCA53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E560F40A-8370-4B4D-B2D1-003D856DCA53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E65FD9B3-A259-453E-AF4C-3DD6AE0A9CD3}
+	EndGlobalSection
+EndGlobal
